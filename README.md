@@ -9,3 +9,14 @@ Both files Used in this project
 * **stackoverflow**: CSV file with main survey results, one respondent per row and one column per answer
 ### Code File:
 [Code File](https://github.com/AbbasMustafa/Udacity-Data-Scientist-Nanadegree/blob/main/Stackoverflow%20data.ipynb) in .ipyb
+### installation
+matplotlib==3.4.2
+matplotlib-inline==0.1.2
+numpy==1.20.3
+pandas==1.2.4
+
+Or
+'''
+run: pip install -r requirements.txt in your shell
+'''
+
