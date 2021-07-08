@@ -10,8 +10,9 @@ Both files Used in this project
 1. Salary distribuition According to Race?
 2. Which country has high educated People?
 3. How many MajorUndergrad Student who gets job?
-### Code File:
-[Code File](https://github.com/AbbasMustafa/Udacity-Data-Scientist-Nanadegree/blob/main/Stackoverflow%20data.ipynb) in .ipyb
+### File:
+1. [Stackoverflow data.ipynb: Code File](https://github.com/AbbasMustafa/Udacity-Data-Scientist-Nanadegree/blob/main/Stackoverflow%20data.ipynb) in .ipyb
+2. requirements.txt
 ### Installation
 ```
 matplotlib==3.4.2
