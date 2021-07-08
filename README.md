@@ -1,2 +1,3 @@
 # Udacity-Data-Scientist-Nanadegree
-Udacity Nanodegree Data Scientist Program
+## Project No 1
+### Udacity Project : Write a Data Scientist Blog Post
