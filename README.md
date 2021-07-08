@@ -6,9 +6,13 @@ In this project I use StackOverflow dataset which contain all records of those p
 Both files Used in this project
 * **Schema**: CSV file with survey schema, i.e., the questions that correspond to each column name
 * **stackoverflow**: CSV file with main survey results, one respondent per row and one column per answer
+### Insights:
+1. Salary distribuition According to Race?
+2. Which country has high educated People?
+3. How many MajorUndergrad Student who gets job?
 ### Code File:
 [Code File](https://github.com/AbbasMustafa/Udacity-Data-Scientist-Nanadegree/blob/main/Stackoverflow%20data.ipynb) in .ipyb
-### installation
+### Installation
 ```
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
@@ -19,4 +23,17 @@ Or
 ```
 run: pip install -r requirements.txt in your shell
 ```
+### Blog:
 
+### Summary of the analysis:
+1. **Salary distribuition According to Race?**
+Native American, Pacific Islender, or Indigenous Australian are highest paid and South Asian are lowest paid <br>
+2. **Which country has high educated People?**
+This Result Shows that US has Most Bachelor's , Masters and Doctoral Degress
+This can be justidy beacause we have largest responder from US (Baisnes in dataset)
+But we have Secondry School responder from Germany
+and professional Degree from Spain
+3. **How many MajorUndergrad Student who gets job?**
+around 77% Undergrad are Employed
+around 5% Undergrad are not employed
+remaing 18% Don't want to respond or reitred
