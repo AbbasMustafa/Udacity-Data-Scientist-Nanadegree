@@ -26,14 +26,14 @@ run: pip install -r requirements.txt in your shell
 ### Blog:
 
 ### Summary of the analysis:
-1. **Salary distribuition According to Race?**
+1. **Salary distribuition According to Race?** <br>
 Native American, Pacific Islender, or Indigenous Australian are highest paid and South Asian are lowest paid <br>
-2. **Which country has high educated People?**
+2. **Which country has high educated People?** <br>
 This Result Shows that US has Most Bachelor's , Masters and Doctoral Degress
 This can be justidy beacause we have largest responder from US (Baisnes in dataset)
 But we have Secondry School responder from Germany
 and professional Degree from Spain
-3. **How many MajorUndergrad Student who gets job?**
+3. **How many MajorUndergrad Student who gets job?** <br>
 around 77% Undergrad are Employed
 around 5% Undergrad are not employed
 remaing 18% Don't want to respond or reitred
