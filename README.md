@@ -16,7 +16,7 @@ numpy==1.20.3
 pandas==1.2.4
 
 Or
-'''
+```
 run: pip install -r requirements.txt in your shell
-'''
+```
 
