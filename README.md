@@ -25,7 +25,7 @@ Or
 run: pip install -r requirements.txt in your shell
 ```
 ### Blog:
-
+[Blos Post](https://medium.com/@mustufa.abbas110/insights-from-stack-overflow-survey-51209632d788) at Medium
 ### Summary of the analysis:
 1. **Salary distribuition According to Race?** <br>
 Native American, Pacific Islender, or Indigenous Australian are highest paid and South Asian are lowest paid <br>
