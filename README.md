@@ -10,8 +10,9 @@ Both files Used in this project
 1. Salary distribuition According to Race?
 2. Which country has high educated People?
 3. How many MajorUndergrad Student who gets job?
-### Code File:
-[Code File](https://github.com/AbbasMustafa/Udacity-Data-Scientist-Nanadegree/blob/main/Stackoverflow%20data.ipynb) in .ipyb
+### Files:
+1. [Stackoverflow data.ipynb: Code File](https://github.com/AbbasMustafa/Udacity-Data-Scientist-Nanadegree/blob/main/Stackoverflow%20data.ipynb) in .ipyb
+2. requirements.txt
 ### Installation
 ```
 matplotlib==3.4.2
@@ -24,7 +25,7 @@ Or
 run: pip install -r requirements.txt in your shell
 ```
 ### Blog:
-
+[Blos Post](https://medium.com/@mustufa.abbas110/insights-from-stack-overflow-survey-51209632d788) at Medium
 ### Summary of the analysis:
 1. **Salary distribuition According to Race?** <br>
 Native American, Pacific Islender, or Indigenous Australian are highest paid and South Asian are lowest paid <br>
